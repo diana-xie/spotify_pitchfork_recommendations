@@ -1,6 +1,6 @@
 # A Spotify-Pitchfork integrated recommendation engine
 
-Flask app, based on this project: [https://dianaxie.pythonanywhere.com](dianaxie.pythonanywhere.com)
+Flask app, based on this project: [dianaxie.pythonanywhere.com](https://dianaxie.pythonanywhere.com)
 
 ## In this project, I create a reviewer recommendation engine to match individual consumers with compatible music critics.
 
